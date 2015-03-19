@@ -1,0 +1,13 @@
+{
+  "name": "u-mall-tv",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "modernizr": "~2.8.2",
+    "slick-carousel": "1.4.1"
+  },
+  "devDependencies": {
+    "font-awesome": "https://github.com/gnux123/font-awesome.git",
+    "animate.scss": "https://github.com/gnux123/animate.scss.git"
+  }
+}
